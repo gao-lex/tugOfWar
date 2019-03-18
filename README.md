@@ -1,17 +1,25 @@
 # tug_of_war
 
-A new Flutter project.
+Flutter project. 可以通过Andriod Studio打开
 
-## Getting Started
+# 部分运行结果页面
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 登陆界面
+![登陆](./images/登陆.png)
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+## 主页
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
-"# tugOfWar" 
+![登陆](./images/主界面.png)
+
+## 抽屉
+
+![登陆](./images/抽屉.png)
+
+## 正在寻找对手
+
+![登陆](./images/正在寻找对手.png)
+
+## 比赛
+
+![登陆](./images/比赛.jpg)
